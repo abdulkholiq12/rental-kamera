@@ -1,0 +1,64 @@
+.content{
+  background-color: #f6f6f6;
+  margin-top: 30px !important;
+}
+.card-header{
+  background-color: #27a9f5 !important;
+  color: white;
+  font-weight: bold;
+}
+.padding-20{
+  padding: 20px;
+}
+.padding-10{
+  padding: 10px;
+}
+.padding-10{
+  padding: 10px;
+}
+.margin-bottom-40{
+  margin: 0px 0px 40px 0px;
+}
+.card .table tr:first-child td{
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+h3{
+  margin: 0;
+}
+/* Update Page */
+input.form-control {
+  margin: 0;
+}
+.form-group{
+ margin: 6px 0 0;
+}
+button.btn.btn-success{
+  float: right;
+}
+/* List Page */
+.link-page{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.table thead th{
+  font-size: 0.95rem !important;
+}
+.table>thead>tr>th,
+.table>tbody>tr>th,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>tbody>tr>td,
+.table>tfoot>tr>td{
+  text-align: center;
+}
+.button-create{
+  display: flex;
+  justify-content: flex-end;
+}
+/* Detail Page */
+img.img-thumbnail {
+  width: 100%;
+  object-fit: cover;
+  height: 310px;
+}

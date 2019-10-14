@@ -1,0 +1,39 @@
+img.image-logo{
+  width: 100px;
+}
+.header-top{
+  background: #222222 none repeat scroll 0 0;
+  color: #9d9d9d;
+  padding: 6px 0;
+}
+.widget-header {
+  background: #222222 none repeat scroll 0 0;
+  color: #ffffff;
+}
+.header-widget {
+  background: #222222 none repeat scroll 0 0;
+  color: #ffffff;
+  display: flex;
+  padding: 5px;
+  float: right;
+}
+.header-widget p{
+  margin-bottom: 0;
+}
+.header-widget ul{
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+.header-widget ul li{
+  display: inline-block;
+  padding: 0px;
+  vertical-align: middle;
+  margin: 0px 0 0 8px;
+}
+a.login-btn{
+  text-decoration: none;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover{
+  color: #17A2B8;
+}

@@ -1,0 +1,13 @@
+.footer-top{
+  background: #222222 none repeat scroll 0 0;
+  color: #9d9d9d;
+  padding: 80px 0;
+}
+.footer-bottom{
+  background: #191919 none repeat scroll 0 0;
+  padding: 22px 0;
+}
+
+.newsletter-form a {
+  text-decoration: none;
+}

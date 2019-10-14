@@ -1,0 +1,8 @@
+.sidebar-wrapper ul li a:hover {
+  background-color: red !important;
+  color: white !important;
+}
+.sidebar-wrapper ul li a:active {
+  /* background-color: green !important; */
+  color: white;
+}

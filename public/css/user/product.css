@@ -1,0 +1,75 @@
+.label-img{
+  position: relative;
+  overflow: hidden;
+}
+.card{
+  background: #3ca3b8 none repeat scroll 0 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 0 auto 15px;
+}
+.card-block{
+  padding: 10px;
+  color: #ffffff;
+}
+.card-block ul {
+  border-top: 1px solid #e7e6e6;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  padding: 20px 0 0;
+}
+.price_info{
+  overflow: hidden;
+  border-bottom: 1px solid #e7e6e6;
+}
+.price_info .price-1{
+  float: right;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.price {
+  float: left;
+  width: 100%;
+}
+h4.card-title{
+  color: #ffffff;
+  font-weight: bold;
+}
+
+/* Detail Product */
+.card-detail{
+  margin-top: 40px;
+  border: none;
+}
+.card-title-detail{
+  padding: 10px;
+}
+.margin-bottom-40-detail{
+  margin-bottom: 40px;
+}
+
+.card-detail{
+  margin-top: 30px;
+  border: none;
+}
+.card-body-detail{
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 0 auto 15px;
+  padding: 20px;
+}
+.card-block-detail{
+  padding: 10px;
+}
+.card-title a{
+  text-decoration: none;
+  color: #ffffff;
+}
+img.card-img-top {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
